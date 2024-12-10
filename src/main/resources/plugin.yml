@@ -1,0 +1,10 @@
+name: MiniGames
+version: '${project.version}'
+main: barbosatk.minigames.MiniGames
+api-version: 1.16
+authors: [ barbosatk ]
+description: Plugin with multiple Mini-Games ready to play
+commands:
+  worlds:
+    description:
+
